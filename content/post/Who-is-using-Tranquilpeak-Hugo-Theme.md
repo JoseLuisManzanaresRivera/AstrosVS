@@ -3,10 +3,10 @@ categories:
 - tranquilpeak
 - showcase
 date: "2015-06-14"
-slug: who-is-using-tranquilpeak-hugo-theme
+slug: Entrenamientos
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 thumbnailImagePosition: left
-title: Who's using Tranquilpeak Hugo Theme
+title: Los entrenamientos
 ---
 
 Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.
