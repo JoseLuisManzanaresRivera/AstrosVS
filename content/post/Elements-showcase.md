@@ -8,23 +8,38 @@ tags:
 - markdown
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jpg
 thumbnailImagePosition: left
-title: Elements showcase
+title: El Equipo
 ---
 
-Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It's simple and elegant.
+Bienvenido a nustra casa. Los Astros de Villa Sonora es un equipo que se conforma por veraderos talentos.
+
+Conoce a nustros campeones:
+
+Te presentamos el line up!!
+
+
 <!--more-->
 
-# Heading 1
+## Pitcher.   Dany.
 
-## Heading 2
+## Catcher  Chiquis
 
-### Heading 3
+## Field Izquierdo  Alexis
 
-#### Heading 4
+## Primera. Enrique.
 
-##### Heading 5
+## Segunda Fernando 
 
-###### Heading 6
+## Short Stop Jacinto.
+
+## Tercera  Noe
+
+## Jardin central
+
+## Fieldr derecho  Jasiel
+
+
+
 
 
 ## Paragraph
